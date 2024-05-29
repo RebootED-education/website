@@ -19,3 +19,12 @@ body {
     width: 50%;
     margin: 20px;
   }
+
+  .navbar {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .navbar a {
+    color: white;
+  }
