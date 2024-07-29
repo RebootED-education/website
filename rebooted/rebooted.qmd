@@ -1,0 +1,62 @@
+---
+title: Rebooted - Empowering Education
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    
+---
+
+# Rebooted - Empowering Education
+
+Rebooted is a revolutionary educational platform that empowers students to reach their full potential.
+
+## Our Mission
+
+To provide high-quality educational resources and tools to students of all ages.
+
+```{mermaid} 
+flowchart TB Home["Home"] --> About["About Us"] Home --> Services["Services"] Home --> Contact["Contact Us"]
+
+About --> Team["Our Team"]
+About --> History["Our History"]
+
+Services --> Education["Educa<wbr>tional Services"]
+Services --> Consulting["Cons<wbr>ulting"]
+Services --> Development["Web<wbr> Development"]
+
+Contact --> Form["Contact Form"]
+Contact --> Map["Location Map"]
+Contact --> Social["Social Media"]
+```
+
+Insert code
+
+
+### Our Team
+
+![Rebooted Team](team.jpg)
+
+### Our Partners
+
+![Rebooted Partners](partners.jpg)
+
+### Animations
+
+#### Animation 1
+
+![Animation 1](animation1.gif)
+
+#### Animation 2
+
+![Animation 2](animation2.gif)
+
+### Get in Touch
+
+Contact us at [info@rebooted.com](mailto:info@rebooted.com) to learn more about our programs and services.
+
+### Social Media
+
+Follow us on social media:
+
+[Facebook](https://facebook.com/rebooted) | [Twitter](https://twitter.com/rebooted) | [Instagram](https://instagram.com/rebooted)
